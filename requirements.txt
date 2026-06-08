@@ -1,0 +1,3 @@
+Numpy version: 2.4.4
+Matplotlib version: 3.10.8
+Scikit-learn version: 1.8.0
